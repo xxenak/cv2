@@ -1,0 +1,10 @@
+body {background-color:#ccfff2;
+}
+
+hr{border-style:none;
+border-color:grey;
+border-width:7px;
+border-top-style: dotted;
+width:7%; height:5px;
+}
+h1, h2,h3{color:#207e82}
